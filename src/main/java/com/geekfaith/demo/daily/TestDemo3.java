@@ -1,6 +1,6 @@
 package com.geekfaith.demo.daily;
 
-public class Test03 {
+public class TestDemo3 {
     public static void main(String[] args) {
 //        学校/年级/班级/自增数字+两位随机数
 //    String school = "bh";
